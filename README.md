@@ -1,7 +1,13 @@
-### Hi there 👋
+<h1>Hi, I'm Zackary</h1>
+
+<h2>Game Development:</h2>
+
+- <b>C++</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 <!--
-**majuju01/majuju01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
