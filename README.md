@@ -4,6 +4,10 @@
 
 - <b>Projects</b>
   - [C++](https://github.com/majuju01/C/blob/main/README.md)
+  - [Maya Modles](https://github.com/majuju01/C/blob/main/README.md)
+  - [Gamemaker Studio](https://github.com/majuju01/C/blob/main/README.md)
+  - [Unity](https://github.com/majuju01/C/blob/main/README.md)
+  - [Unreal Engine](https://github.com/majuju01/C/blob/main/README.md)
 
 
 <!--
