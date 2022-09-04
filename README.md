@@ -3,7 +3,7 @@
 <h2>Game Development:</h2>
 
 - <b>C++</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting C++](https://github.com/majuju01/C/blob/main/README.md)
 
 
 <!--
