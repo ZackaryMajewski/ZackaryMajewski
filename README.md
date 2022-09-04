@@ -2,8 +2,8 @@
 
 <h2>Game Development:</h2>
 
-- <b>C++</b>
-  - [Praciting C++](https://github.com/majuju01/C/blob/main/README.md)
+- <b>Projects</b>
+  - [C++](https://github.com/majuju01/C/blob/main/README.md)
 
 
 <!--
