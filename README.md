@@ -5,7 +5,7 @@
 - <b>Projects</b>
   - [C++](https://github.com/majuju01/C/blob/main/README.md)
   - [Maya Models](https://github.com/majuju01/C/blob/main/README.md)
-  - [Gamemaker Studio](https://github.com/majuju01/C/blob/main/README.md)
+  - [Gamemaker Studio](https://github.com/ZackaryMajewski/Gamemaker-Studio)
   - [Unity](https://github.com/majuju01/C/blob/main/README.md)
   - [Unreal Engine](https://github.com/majuju01/C/blob/main/README.md)
 
